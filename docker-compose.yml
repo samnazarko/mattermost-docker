@@ -11,6 +11,6 @@ app:
 web:
   build: web
   ports:
-    - "8065:80"
+    - "80:80"
   links:
     - app:platform

@@ -13,8 +13,8 @@
         "EnableSecurityFixAlert": true
     },
     "TeamSettings": {
-        "SiteName": "Mattermost",
-        "MaxUsersPerTeam": 50,
+        "SiteName": "OSMC",
+        "MaxUsersPerTeam": 50000,
         "EnableTeamCreation": true,
         "EnableUserCreation": true,
         "RestrictCreationToDomains": "",
